@@ -52,13 +52,14 @@ T-Academy 주관
     - trian, test 데이터 분리
     - batch size와 학습
     - 데이터 수와 학습
-    - normalization
     - 모델 저장과 로딩
-    - 노이즈 내구성
     - GPU 설정
     - 데이터 수와 성능
     - 다양한 입출력
+    - 노이즈 내구성
     - callback : [dnn_in_keras_callback.ipynb](./material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
+    - normalization
+    - overfitting 완화법
 
 <br>
 
