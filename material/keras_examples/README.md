@@ -12,3 +12,7 @@ Keras 공식 홈의 Examples(https://keras.io/examples/)의 예들을 가져온 
         - 시계열, grid같은 시계열, 분류, Conv1D, CNN, 시계열 데이터 모음
         - [timeseries_classification_from_scratch.ipynb](timeseries_classification_from_scratch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/keras-examples/timeseries_classification_from_scratch.ipynb)
 
+    - Timeseries classification with a Transformer model
+        - 시계열 데이터, Transformer 모델, 분류
+        - [timeseries_transformer_classification.ipynb](timeseries_transformer_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/keras-examples/timeseries_transformer_classification.ipynb)
+
