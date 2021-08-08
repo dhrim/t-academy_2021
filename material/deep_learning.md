@@ -157,7 +157,7 @@
 ## 성능 개선
 
 - 성능 개선 개요 : [deep_learning_intro.pptx](../material/deep_learning/deep_learning_intro.pptx)
-- 오버피팅 처리 방법 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+- 오버피팅 처리 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
 - 데이터 수와 오버피팅 : [data_count_and_overfitting.ipynb](../material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
 - weight 초기화와 성능 : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 - normalization과 성능 : [normalization_and_performance.ipynb](../material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
