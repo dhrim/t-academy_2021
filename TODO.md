@@ -3,6 +3,8 @@
 작성 기준일 : 2021/07/23
 
 - 전체 자료 리스트 작성
+- 개선
+    - model.history
 - 추가
     - regression template
         - simple
@@ -24,6 +26,9 @@
     - 흥미로운 사례 
         - 갤럭시 배경에 물체 지우기
         - 얼굴 변경
+    - MS facial Recognition
+    - howto - 쌍 유지하면서 섞기
+    - ImageDataGenerator.fit()
 - 정리
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
     - tensorflow_tutorial_xxx.ipynb 삭제
