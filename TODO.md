@@ -26,7 +26,7 @@
     - 흥미로운 사례 
         - 갤럭시 배경에 물체 지우기
         - 얼굴 변경
-    - MS facial Recognition
+    - ~~MS facial Recognition~~
     - ~~howto - 쌍 유지하면서 섞기~~
     - ~~ImageDataGenerator.fit()~~ <- 하지 말자
 - 정리
