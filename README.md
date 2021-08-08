@@ -45,7 +45,7 @@ T-Academy 주관
 
 ## 2일차
 
-- Keras 파악, 딥러닝 코드 파악 실습 : : [dnn_in_keras.ipynb](./material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras.ipynb)
+- Keras로 구현한 딥러닝 : : [dnn_in_keras.ipynb](./material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras.ipynb)
     - 표준 Keras 딥러닝 코드
     - 로스 보기
     - 은닉층과 노드 수
@@ -59,10 +59,10 @@ T-Academy 주관
     - 학습되지 않는 랜덤 함수
     - Optimizer
     - 다양한 입출력
-    - callback : [dnn_in_keras_callback.ipynb](./material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
-    - 데이터 수와 성능 : [data_count_and_overfitting.ipynb](./material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
-    - normalization : [normalization_and_performance.ipynb](./material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
-    - overfitting 완화법 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+- callback : [dnn_in_keras_callback.ipynb](./material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
+- 데이터 수와 성능 : [data_count_and_overfitting.ipynb](./material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
+- normalization과 성능 : [normalization_and_performance.ipynb](./material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
+- overfitting 처리 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
 
 <br>
 
