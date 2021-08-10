@@ -12,6 +12,8 @@
     - PCA
     - t-SNE
     - k-cross validation
+    - one hot encoding
+    - count class number
     - sequence data
         - regression
         - classification
