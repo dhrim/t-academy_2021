@@ -319,11 +319,15 @@ libray
     pandas
         load
         view
-	operation
+	    operation
         to numpy
+    seaborn
+        charts
     matplot
-        draw line graph
+        plot
         scatter
+        hist
+        multi draw
         show image
 
 Deep Learning
