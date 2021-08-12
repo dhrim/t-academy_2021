@@ -112,17 +112,18 @@ T-Academy 주관
 
 - Keras Function API  : [functional_api.ipynb](./material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/functional_api.ipynb)
 
-- 영상 분할(Segementation)
-    - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](./material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/unet_segementation.ipynb)
-    - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](./material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/mnet_segementation.ipynb)
-    - U-Net을 사용한 컬러 영상 분할 실습 : [unet_segementation_color_image.ipynb](./material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/unet_segementation_color_image.ipynb)
-
 
 - AutoEncoder
     - AutoEncoder 실습 : [autoencoder.ipynb](./material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/autoencoder.ipynb)
     - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](./material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
     - Super Resolution : [mnist_super_resolution.ipynb](./material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
     - 이상 탐지 : [anomaly_detection_using_autoencoder.ipynb](./material/deep_learning/anomaly_detection_using_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/anomaly_detection_using_autoencoder.ipynb)
+
+
+- 영상 분할(Segementation)
+    - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](./material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/unet_segementation.ipynb)
+    - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](./material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/mnet_segementation.ipynb)
+    - U-Net을 사용한 컬러 영상 분할 실습 : [unet_segementation_color_image.ipynb](./material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/unet_segementation_color_image.ipynb)
 
 <br>
 
