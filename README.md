@@ -145,7 +145,7 @@ T-Academy 주관
     - GAN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx), 
         - 이상탐지 관련 GAN 설명 : [deep_learning_anomaly_detection.pptx](./material/deep_learning/deep_learning_anomaly_detection.pptx)
     - GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](./material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/wgan_gp_mnist.ipynb)
-    - Conditional GAN의 이해 : 
+    - Conditional GAN의 이해 : [anomaly_detection_using_gan.pptx](./material/deep_learning/anomaly_detection_using_gan.pptx)
     - Cycle GAN의 이해 : [cycle_gan.pdf](./material/deep_learning/cycle_gan.pdf)
 
 
