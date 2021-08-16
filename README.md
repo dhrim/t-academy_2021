@@ -63,7 +63,8 @@ T-Academy 주관
 - 데이터 수와 성능 : [data_count_and_overfitting.ipynb](./material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
 - normalization과 성능 : [normalization_and_performance.ipynb](./material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
 - overfitting 처리 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-
+- 순차열 데이터 처리 : [treating_sequence_data.ipynb](./material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
+- 
 <br>
 
 
@@ -102,6 +103,7 @@ T-Academy 주관
     - RNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
     - CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 :  : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/rnn_text_classification.ipynb)
     - RNN을 사용한 흑백 영상 데이터 MNIST 분류 : [rnn_mnist.ipynb](./material/deep_learning/rnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/rnn_mnist.ipynb)
+    - 순차열 데이터 처리 : [treating_sequence_data.ipynb](./material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
 - 강화학습 이해하기 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
 
