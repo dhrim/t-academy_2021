@@ -63,7 +63,8 @@ T-Academy 주관
 - 데이터 수와 성능 : [data_count_and_overfitting.ipynb](./material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
 - normalization과 성능 : [normalization_and_performance.ipynb](./material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
 - overfitting 처리 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-
+- 순차열 데이터 처리 : [treating_sequence_data.ipynb](./material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
+- 
 <br>
 
 
@@ -102,6 +103,7 @@ T-Academy 주관
     - RNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
     - CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 :  : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/rnn_text_classification.ipynb)
     - RNN을 사용한 흑백 영상 데이터 MNIST 분류 : [rnn_mnist.ipynb](./material/deep_learning/rnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/rnn_mnist.ipynb)
+    - 순차열 데이터 처리 : [treating_sequence_data.ipynb](./material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
 - 강화학습 이해하기 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
 
@@ -145,7 +147,7 @@ T-Academy 주관
     - GAN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx), 
         - 이상탐지 관련 GAN 설명 : [deep_learning_anomaly_detection.pptx](./material/deep_learning/deep_learning_anomaly_detection.pptx)
     - GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](./material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/wgan_gp_mnist.ipynb)
-    - Conditional GAN의 이해 : 
+    - Conditional GAN의 이해 : [anomaly_detection_using_gan.pptx](./material/deep_learning/anomaly_detection_using_gan.pptx)
     - Cycle GAN의 이해 : [cycle_gan.pdf](./material/deep_learning/cycle_gan.pdf)
 
 
@@ -166,7 +168,7 @@ T-Academy 주관
     - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
     - 속성 데이터 예측 : [real_practice_predict_semiconductor_attribute.ipynb](material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb)
     - 속성 데이터 분류 : [real_practice_classify_semiconductor_attribute.ipynb](material/deep_learning/real_practice_classify_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_attribute.ipynb)
-    - 시계열 데이터 예측 : [real_practice_timeseries_weathrer_forecaseting.ipynb](material/deep_learning/real_practice_timeseries_weathrer_forecaseting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_timeseries_weathrer_forecaseting.ipynb)
+    - 시계열 데이터 예측 : [wheather_forecasting_using_TimeseriesGenerator.ipynb](material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb)
     - 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
 
 <br>
