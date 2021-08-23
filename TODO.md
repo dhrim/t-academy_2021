@@ -18,9 +18,15 @@
         - regression
         - classification
         - util을 사용한 sequence 데이터 처리
-    - RNN Template
-        regression
-        classification
+    - RNN
+        - bidirectional
+        - GRU/LSTM
+        - stacked
+        - ~regression example~
+        - ~classification example~
+        - Template
+            - regression
+            - classification
     - scikit-learn
         - scaler
         - train_test_split
@@ -28,9 +34,16 @@
     - ~~흥미로운 사례~~ 
         - ~~갤럭시 배경에 물체 지우기~~
         - ~~얼굴 변경~~
+        - voice 관련
+        - super resolution
     - ~~MS facial Recognition~~
     - ~~howto - 쌍 유지하면서 섞기~~
     - ~~ImageDataGenerator.fit()~~ <- 하지 말자
+    - Transpose
+    - upsampling
+    - howto
+        - draw architecture
+    - online Object Detection lableing
 - 정리
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
     - tensorflow_tutorial_xxx.ipynb 삭제
