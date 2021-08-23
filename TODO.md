@@ -19,11 +19,12 @@
         - classification
         - util을 사용한 sequence 데이터 처리
     - RNN
-        - bidirectional
-        - GRU/LSTM
+        - ~bidirectional~
+        - ~GRU/LSTM~
         - stacked
         - ~regression example~
         - ~classification example~
+        - ~prediction~
         - Template
             - regression
             - classification
