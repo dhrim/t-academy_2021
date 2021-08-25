@@ -212,7 +212,7 @@ T-Academy 주관
 ## How-To
 
 - class_wieght : [howto_class_weight_for_imbalancing.ipynb](./material/deep_learning/howto_class_weight_for_imbalancing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/howto_class_weight_for_imbalancing.ipynb)
-
+- 2진 분류 : [binary_classification.ipynb](./material/deep_learning/binary_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/binary_classification.ipynb)
 
 <br>
 
